@@ -1,0 +1,14 @@
+streamlit
+mysql-connector-python
+beautifulsoup4
+textblob
+wordcloud
+yake
+speech_recognition
+matplotlib
+numpy
+pydub
+moviepy
+opencv-python
+Pillow
+scikit-learn
